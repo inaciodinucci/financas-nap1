@@ -1,0 +1,8 @@
+PyQt5==5.15.7
+mysql-connector-python==8.0.28
+python-dotenv==0.19.2
+bcrypt==3.2.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+PyJWT==2.3.0
+openpyxl==3.0.9 
